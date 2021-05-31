@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "UNKNOWN",
+  "title": "MSFS-Notepad",
+  "manufacturer": "o4oren",
+  "creator": "Oren Geva",
+  "package_version": "1.0.0",
+  "minimum_game_version": "1.16.2",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}

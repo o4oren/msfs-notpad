@@ -1,0 +1,39 @@
+{
+  "validation": {
+    "validation_path": "C:\\Users\\Oren\\IdeaProjects\\msfs-notepad\\msfs-notepad\\Build\\Packages\\msfs-notepad",
+    "validation_time": "Tue Jun  1 00:04:35 2021",
+    "validation_msecs": 5,
+    "validation_result": "failed"
+  },
+  "meta": {
+    "valid": true
+  },
+  "manifest": {
+    "valid": true,
+    "package_title": "MSFS-Notepad",
+    "package_content_type": "UNKNOWN",
+    "package_version": "1.0.0",
+    "package_minimum_game_version": "1.16.2"
+  },
+  "layout": {
+    "valid": true,
+    "num_directories": 0,
+    "num_files": 1
+  },
+  "marketplace_data": {
+    "valid": false,
+    "errors": {
+      "misc": [
+        "Missing folder 'C:\\Users\\Oren\\IdeaProjects\\msfs-notepad\\msfs-notepad\\Build\\Packages\\msfs-notepad\\MarketplaceData'"
+      ]
+    }
+  },
+  "business": {
+    "valid": false,
+    "errors": {
+      "misc": [
+        "Missing or invalid Business file 'C:\\Users\\Oren\\IdeaProjects\\msfs-notepad\\msfs-notepad\\Build\\Packages\\msfs-notepad\\Business.json'"
+      ]
+    }
+  }
+}

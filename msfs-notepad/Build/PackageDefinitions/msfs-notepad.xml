@@ -1,0 +1,22 @@
+<AssetPackage Name="msfs-notepad" Version="1.0.0">
+	<ItemSettings>
+		<ContentType>SPB</ContentType>
+		<Title>MSFS-Notepad</Title>
+		<Manufacturer>o4oren</Manufacturer>
+		<Creator>Oren Geva</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="msfs-notepad">
+			<Type>SPB</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\</AssetDir>
+			<OutputDir>Build\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
